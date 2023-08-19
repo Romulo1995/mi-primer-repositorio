@@ -1,0 +1,2 @@
+variable = "romulo".
+print (variable)
